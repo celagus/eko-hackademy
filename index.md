@@ -1,4 +1,4 @@
-# DeSecOps Workshop
+# DevSecOps Workshop
 ## Exercise 1: Hello Git! :D
 
 ##Let's know each other!
