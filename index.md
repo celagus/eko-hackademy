@@ -32,3 +32,9 @@
 * About me: Hola! estoy probando git
 * Twitter: -
 * Linkedin: in/javier-herzkovich-05898abb/
+
+### David Rivas 
+![Image](photos/dlr.jpg)
+* About me: WordPress Developer | DevSecOps Student
+* Twitter: @deividlrivas
+* Linkedin: in/davidlrivas/
