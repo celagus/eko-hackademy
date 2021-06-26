@@ -35,6 +35,6 @@
 
 ### David Rivas 
 ![Image](photos/dlr.jpg)
-* About me: WordPress Developer | DevSecOps Student
+* About me: WordPress Developer. DevSecOps Student.
 * Twitter: @deividlrivas
 * Linkedin: in/davidlrivas/
