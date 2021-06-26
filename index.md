@@ -15,3 +15,8 @@
 * Twitter: @HomerJSimpson
 * Linkedin: in/homer-j-simpson-70
 
+### Facundo Alarcon
+![Image](photos/fa.jpg)
+* About me: Cloud enthusiast. I enjoy solving problems, taking on new challenges, learning about cybersecurity and new technologies. I like training and drawing.
+* Twitter: @facualarcon_
+* Linkedin: in/facundo-alarcón-27990711b
