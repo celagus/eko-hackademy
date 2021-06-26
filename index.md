@@ -15,8 +15,14 @@
 * Twitter: @HomerJSimpson
 * Linkedin: in/homer-j-simpson-70
 
+### Alberto Mansilla
+![Image](photos/am.png)
+* About me: Full Stack Developer, Cybersecurity fan
+* Twitter: -
+* Linkedin: in/alberto-mansilla-0a80ab121/
+
 ### Facundo Alarcon
 ![Image](photos/fa.jpg)
-* About me: Cloud enthusiast. I enjoy solving problems, taking on new challenges, learning about cybersecurity and new technologies. I like training and drawing.
+* About me: Cloud enthusiast. I enjoy solving problems, taking on new challenges, learning about cybersecurity and new technologies.>
 * Twitter: @facualarcon_
 * Linkedin: in/facundo-alarcón-27990711b
