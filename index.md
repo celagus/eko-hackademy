@@ -27,21 +27,26 @@
 * Twitter: @facualarcon_
 * Linkedin: in/facundo-alarcón-27990711b
 
-### Javier Herzkovich 
+### Javier Herzkovich
 ![Image](photos/fotojavi.png)
 * About me: Hola! estoy probando git
 * Twitter: -
 * Linkedin: in/javier-herzkovich-05898abb/
 
-### David Rivas 
+### David Rivas
 ![Image](photos/dlr.jpg)
 * About me: WordPress Developer | DevSecOps Student
 * Twitter: @deividlrivas
 * Linkedin: in/davidlrivas/
+
+### Matias Baghdassarian
+![Image](photos/napster.png)
+* About me: :computer: Systems Engineering Student (UTN FRBA) | Online vendor | :mate: mate lover
+* Twitter: @matibaghda
+* Linkedin: in/matias-baghdassarian 
 
 ### Agustin Orellana Mario
 ![Image](photos/Aom.jpg)
 * About me: Videogames & Cybersec 24/7
 * Twitter: @AgustinOrella11
 * Linkedin: in/agustin-orellana-mario/
-
