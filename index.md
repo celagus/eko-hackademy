@@ -38,3 +38,10 @@
 * About me: WordPress Developer | DevSecOps Student
 * Twitter: @deividlrivas
 * Linkedin: in/davidlrivas/
+
+### Agustin Orellana Mario
+![Image](photos/Aom.jpg)
+* About me: Videogames & Cybersec 24/7
+* Twitter: @AgustinOrella11
+* Linkedin: in/agustin-orellana-mario/
+
