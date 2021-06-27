@@ -50,3 +50,11 @@
 * About me: Videogames & Cybersec 24/7
 * Twitter: @AgustinOrella11
 * Linkedin: in/agustin-orellana-mario/
+
+### Gaston Ignacio Cejas
+![Image](photos/gastonc.png)
+*About me: Tecnología/música/cybersec
+*Twitter: ---
+*Linkedin: in/gastón-ignacio-cejas-4171b512a/
+
+
