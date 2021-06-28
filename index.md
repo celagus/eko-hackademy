@@ -50,3 +50,9 @@
 * About me: Videogames & Cybersec 24/7
 * Twitter: @AgustinOrella11
 * Linkedin: in/agustin-orellana-mario/
+
+### Sergio Daniel Cayuqueo
+![Image](photos/sergiocayuqueo.jpg)
+* About me: Usuario de Software Libre
+* Twitter: @cayu
+* Linkedin: in/sergiocayuqueo/
