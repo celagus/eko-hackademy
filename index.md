@@ -68,3 +68,9 @@
 * About me: cybersecurity, music and mate lover
 * Twitter: -
 * Linkedin: in/erilafuente
+
+### Sergio Daniel Cayuqueo
+![Image](photos/sergiocayuqueo.jpg)
+* About me: Usuario de Software Libre
+* Twitter: @cayu
+* Linkedin: in/sergiocayuqueo/
