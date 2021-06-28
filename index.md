@@ -1,7 +1,7 @@
 # DevSecOps Workshop
 ## Exercise 1: Hello Git! :D
 
-##Let's know each other!
+## Let's know each other!
 
 ### Agustin Celano
 ![Image](photos/ac.jpg)
