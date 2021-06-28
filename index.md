@@ -74,3 +74,8 @@
 * About me: Usuario de Software Libre
 * Twitter: @cayu
 * Linkedin: in/sergiocayuqueo/
+
+## Gaspar
+![Image](photos/gaspar.jpg)
+* About me: Por privacidad no suelo dejar informacion sensible y personal en github.
+* [Telegram](https://t.me/grunt1234)
