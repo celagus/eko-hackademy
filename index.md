@@ -51,6 +51,18 @@
 * Twitter: @AgustinOrella11
 * Linkedin: in/agustin-orellana-mario/
 
+### Maximiliano Orellano
+![Image](photos/fotomaxi.jpg)
+* About me: Hackademy
+* Twitter: @maxiorellano
+* Linkedin: @maxiorellano
+
+### Gustavo Arrúa
+![Image](photos/Gus GIT1.jpeg)
+* About me: 0 IT background, really really new in this world  | Martial Arts Enthusiast
+* Twitter: @guxtavox1
+* Linkedin: -
+
 ### Érica Lafuente
 ![Image](photos/el.jpeg)
 * About me: cybersecurity, music and mate lover
