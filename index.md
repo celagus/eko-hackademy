@@ -50,3 +50,9 @@
 * About me: Videogames & Cybersec 24/7
 * Twitter: @AgustinOrella11
 * Linkedin: in/agustin-orellana-mario/
+
+### Érica Lafuente
+![Image](photos/el.jpeg)
+* About me: cybersecurity, music and mate lover
+* Twitter: -
+* Linkedin: in/erilafuente
