@@ -62,3 +62,9 @@
 * About me: 0 IT background, really really new in this world  | Martial Arts Enthusiast
 * Twitter: @guxtavox1
 * Linkedin: -
+
+### Érica Lafuente
+![Image](photos/el.jpeg)
+* About me: cybersecurity, music and mate lover
+* Twitter: -
+* Linkedin: in/erilafuente
