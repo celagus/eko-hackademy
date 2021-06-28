@@ -75,7 +75,7 @@
 * Twitter: @cayu
 * Linkedin: in/sergiocayuqueo/
 
-## Gaspar
+### Gaspar
 ![Image](photos/gaspar.jpg)
 * About me: Por privacidad no suelo dejar informacion sensible y personal en github.
 * [Telegram](https://t.me/grunt1234)
@@ -86,3 +86,7 @@
 * Twitter: @lanfran02
 * Linkedin: in/joaquin-lanfranconi/
 
+### Nicolas Alejandro Maffongelli
+![Image](photos/tony.jpg)
+* About me: QA Automation - InfoSec student
+* Linkedin: in/nicol%C3%A1s-maffongelli-ba748a93/
