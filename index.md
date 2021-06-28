@@ -74,3 +74,9 @@
 * About me: Usuario de Software Libre
 * Twitter: @cayu
 * Linkedin: in/sergiocayuqueo/
+
+### Joaquin Lanfranconi
+![Image](photos/lanfran.jpeg)
+* About me: 🚩 CTF Player 👾 Cybersecurity enthusiastic. Based in 🇵🇱.
+* Twitter: @lanfran02
+* Linkedin: in/joaquin-lanfranconi/
