@@ -56,3 +56,9 @@
 * About me: Hackademy
 * Twitter: @maxiorellano
 * Linkedin: @maxiorellano
+
+### Gustavo Arrúa
+![Image](photos/Gus GIT1.jpeg)
+* About me: 0 IT background, really really new in this world  | Martial Arts Enthusiast
+* Twitter: @guxtavox1
+* Linkedin: -
