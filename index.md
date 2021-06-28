@@ -79,3 +79,8 @@
 ![Image](photos/gaspar.jpg)
 * About me: Por privacidad no suelo dejar informacion sensible y personal en github.
 * [Telegram](https://t.me/grunt1234)
+
+### Nicolas Alejandro Maffongelli
+![Image](photos/tony.jpg)
+* About me: QA Automation - InfoSec student
+* Linkedin: in/nicol%C3%A1s-maffongelli-ba748a93/
