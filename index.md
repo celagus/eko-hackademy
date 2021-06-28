@@ -79,3 +79,8 @@
 ![Image](photos/gaspar.jpg)
 * About me: Por privacidad no suelo dejar informacion sensible y personal en github.
 * [Telegram](https://t.me/grunt1234)
+
+## Nacho
+![Image](photos/nacho.jpg)
+* About me: learning infosec
+* Twitter: @n4ch0_87
