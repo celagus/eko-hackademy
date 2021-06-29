@@ -95,3 +95,8 @@
 ![Image](photos/nacho.jpg)
 * About me: learning infosec
 * Twitter: @n4ch0_87
+
+### Maria Alejandra Cuervo Miranda
+![Image](photos/aleCuervo.png)
+* About me: Analista de sistemas - QA Manual y Automation
+* Linkedin: in/alejandra-cuervo/
