@@ -93,5 +93,5 @@
 
 ### Maria Alejandra Cuervo Miranda
 ![Image](photos/aleCuervo.png)
-* About me: Analista de sitemas - QA Manual y Automation
+* About me: Analista de sistemas - QA Manual y Automation
 * Linkedin: in/alejandra-cuervo/
