@@ -90,3 +90,8 @@
 ![Image](photos/tony.jpg)
 * About me: QA Automation - InfoSec student
 * Linkedin: in/nicol%C3%A1s-maffongelli-ba748a93/
+
+### Maria Alejandra Cuervo Miranda
+![Image](photos/aleCuervo.png)
+* About me: Analista de sitemas - QA Manual y Automation
+* Linkedin: in/alejandra-cuervo/
