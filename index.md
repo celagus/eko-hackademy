@@ -106,3 +106,8 @@
 * About me: Sysadmin - Infosec lover
 * Linkedin: in/gonzalo.karp
 
+### Gaston Ignacio Cejas
+![Image](photos/gastonc.png)
+*About me: Tecnología/música/cybersec
+*Twitter: ---
+*Linkedin: in/gastón-ignacio-cejas-4171b512a/
