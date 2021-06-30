@@ -1,7 +1,7 @@
 # DevSecOps Workshop
 ## Exercise 1: Hello Git! :D
 
-##Let's know each other!
+## Let's know each other!
 
 ### Agustin Celano
 ![Image](photos/ac.jpg)
@@ -51,10 +51,63 @@
 * Twitter: @AgustinOrella11
 * Linkedin: in/agustin-orellana-mario/
 
+### Maximiliano Orellano
+![Image](photos/fotomaxi.jpg)
+* About me: Hackademy
+* Twitter: @maxiorellano
+* Linkedin: @maxiorellano
+
+### Gustavo Arrúa
+![Image](photos/Gus GIT1.jpeg)
+* About me: 0 IT background, really really new in this world  | Martial Arts Enthusiast
+* Twitter: @guxtavox1
+* Linkedin: -
+
+### Érica Lafuente
+![Image](photos/el.jpeg)
+* About me: cybersecurity, music and mate lover
+* Twitter: -
+* Linkedin: in/erilafuente
+
+### Sergio Daniel Cayuqueo
+![Image](photos/sergiocayuqueo.jpg)
+* About me: Usuario de Software Libre
+* Twitter: @cayu
+* Linkedin: in/sergiocayuqueo/
+
+### Gaspar
+![Image](photos/gaspar.jpg)
+* About me: Por privacidad no suelo dejar informacion sensible y personal en github.
+* [Telegram](https://t.me/grunt1234)
+
+### Joaquin Lanfranconi
+![Image](photos/lanfran.jpeg)
+* About me: 🚩 CTF Player 👾 Cybersecurity enthusiastic. Based in 🇵🇱.
+* Twitter: @lanfran02
+* Linkedin: in/joaquin-lanfranconi/
+
+### Nicolas Alejandro Maffongelli
+![Image](photos/tony.jpg)
+* About me: QA Automation - InfoSec student
+* Linkedin: in/nicol%C3%A1s-maffongelli-ba748a93/
+
+### Nacho
+![Image](photos/nacho.jpg)
+* About me: learning infosec
+* Twitter: @n4ch0_87
+
+### Maria Alejandra Cuervo Miranda
+![Image](photos/aleCuervo.png)
+* About me: Analista de sistemas - QA Manual y Automation
+* Linkedin: in/alejandra-cuervo/
+
+### Gonza
+![Image](photos/gonza.png)
+* About me: Sysadmin - Infosec lover
+* Linkedin: in/gonzalo.karp
+
 ### Gaston Ignacio Cejas
 ![Image](photos/gastonc.png)
 *About me: Tecnología/música/cybersec
 *Twitter: ---
 *Linkedin: in/gastón-ignacio-cejas-4171b512a/
-
-
