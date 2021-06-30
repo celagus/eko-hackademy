@@ -100,3 +100,9 @@
 ![Image](photos/aleCuervo.png)
 * About me: Analista de sistemas - QA Manual y Automation
 * Linkedin: in/alejandra-cuervo/
+
+### Gonza
+![Image](photos/gonza.png)
+* About me: Sysadmin - Infosec lover
+* Linkedin: in/gonzalo.karp
+
