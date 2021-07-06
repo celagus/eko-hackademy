@@ -116,3 +116,8 @@
 ![Image](photos/matiasgnu.jpg)
 *About me: Full Stack Developer
 *Linkedin: in/matiasgnu/
+
+### Joaquín Bargiela
+![Image](photos/jb.jpg)
+*About me: Cybersec student
+*Linkedin: in/joaquinbargiela/
